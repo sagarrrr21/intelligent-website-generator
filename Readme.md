@@ -24,28 +24,19 @@ Version Control: Git & GitHub
 ⚙️ Installation
 
 # Clone the repository
-
-git clone https://github.com/your-username/intelligent-website-generator.git
+git clone https://github.com/sagarrrr21/intelligent-website-generator.git
 
 # Navigate to project directory
-
 cd intelligent-website-generator
 
 # Install dependencies
-
 npm install
 
 # Start the development server
-
 npm start
 
 # Contributions are welcome!
 
-🤝 Contributing
-
-Contributions are welcome!
-
-# Fork the repo
 # Create a new branch
 git checkout -b feature-name
 
@@ -54,31 +45,17 @@ git commit -m "Add feature"
 
 # Push to branch
 git push origin feature-name
+
+📄 License
+This project is licensed under the MIT License.
 
 # 📈 Future Enhancements
 🔹 Drag-and-drop editor
 🔹 More AI design templates
 🔹 Deployment integration (Netlify/Vercel)
-🔹 SEO optimization features
+🔹 optimization features
 🔹 User authentication & project saving
 
-# Create a new branch
-
-git checkout -b feature-name
-
-# Commit changes
-
-git commit -m "Add feature"
-
-# Push to branch
-
-git push origin feature-name
-📄 License
-
-This project is licensed under the MIT License.
-
 👨‍💻 Author
-
 Sagar Chauhan
-
-Strong foundation in DSA, Web Development, and AI-based solutions
+Strong foundation in Data Structure and Algorithms, full stack Development, and AI-based solutions
