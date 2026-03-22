@@ -27,24 +27,32 @@ Version Control: Git & GitHub
 git clone https://github.com/sagarrrr21/intelligent-website-generator.git
 
 # Navigate to project directory
-cd intelligent-website-generator
 
+```
+cd intelligent-website-generator
+```
 # Install dependencies
+```
 npm install
+```
 
 # Start the development server
+```
 npm start
-
+```
 # Contributions are welcome!
 
 # Create a new branch
+```
 git checkout -b feature-name
-
+```
 # Commit changes
 git commit -m "Add feature"
 
 # Push to branch
+```
 git push origin feature-name
+```
 
 📄 License
 This project is licensed under the MIT License.
